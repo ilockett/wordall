@@ -22,7 +22,7 @@ class WordAllService: WordService {
 
     #warning("Don't forget to add the Words API key here...")
     required init(networkSession: NetworkSession = URLSession.shared,
-                  apiKey: String = "<#Enter API Key#>") {
+                  apiKey: String = "27b2feb12fmsh00e649e11ac9e79p1b1fbajsn58a86736a176") {
         self.networkSession = networkSession
         self.apiKey = apiKey
     }
