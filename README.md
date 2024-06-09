@@ -2,7 +2,7 @@
 
 ### Description
 
-The app uses the 2309 possible Wordle answers to display a random word. The user can choose to view more info on this word (definition, synonyms) or select a differen random word.
+The app uses the 2309 possible Wordle answers to display a random word. The user can choose to view more info on this word (definition, synonyms) or select a different random word.
 
 ### Running the App
 
