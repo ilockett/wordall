@@ -1,0 +1,67 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "- Mina Lockett" : {
+
+    },
+    "\"Like a dictionary, but not as useful.\"" : {
+
+    },
+    "%lld definitions:" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld definition:"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%lld definitions:"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "•" : {
+
+    },
+    "About" : {
+
+    },
+    "About Wordall" : {
+
+    },
+    "Close" : {
+
+    },
+    "No definitions were found for \"%@\"" : {
+
+    },
+    "Oh no!" : {
+
+    },
+    "Sorry!" : {
+
+    },
+    "Synonyms:" : {
+
+    },
+    "WordAll" : {
+
+    },
+    "WordAll Logo" : {
+
+    },
+    "Your selected word is:" : {
+
+    }
+  },
+  "version" : "1.0"
+}
