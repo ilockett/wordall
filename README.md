@@ -28,7 +28,7 @@ The app needs an API key to obtain word details. This can be supplied on request
 * Dark mode support
 * Some accessibility consideration added (voice-over and dynamic font support)
 * Consideration for layout on iPad
-* No third-party dependecies user
+* No third-party dependencies
 
 ### Other Notes
 
